@@ -18,7 +18,7 @@
             revision="lineage-20.0" />
 
 
-  <!-- kernel-vince-ysl-k4.19 -->
+  <!-- kernel-vince-ysl-mido-k4.19 -->
   <project path="kernel"        name="android_kernel_qcom_msm8953"    groups="device" remote="kaguya" revision="lineage-20"/>
   <project path="kernel/arch/arm64/boot/dts/vendor-legacy"        name="kernel_devicetree_msm-4.19"    groups="device" remote="kaguya" revision="main"/>
   <project path="kernel/drivers/staging/prima"        name="vendor_qcom_opensource_wlan_prima"    groups="device" remote="mi-thorium" revision="wlan/LA.UM.9.6.4/mithorium/master"/>
